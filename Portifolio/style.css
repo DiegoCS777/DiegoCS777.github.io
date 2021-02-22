@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(243, 241, 241);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(119, 116, 116);
+    font-weight: 600;   
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.foto{
+   width: 400px;
+   padding: 10px;
+   background-color: red;
+}
+
+.descrição{
+   position: absolute;
+   left: 450px;
+
+   
+}
+
+h1{
+    text-align: center ;
+    color: rgb(241, 83, 83);
+    font-size: 35px;
+    font-weight: 500;
+ }
+
+ h2{
+    
+    color: rgb(241, 83, 83);
+    font-size: 20px;
+    font-weight: 400;
+  
+}
+p{
+    color:black;
+    font-size: 16px;  
+    font-weight: 600;
+   
+    
+}
+li{
+    font-size: 16;  
+    font-weight: 600;
+    font-style: italic;
+    color: red;
+    
+}
+ul{
+   
+    font-style: italic;
+    font-weight: 700;
+
+}
